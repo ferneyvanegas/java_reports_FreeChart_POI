@@ -18,4 +18,4 @@ Por otra parte, se debe crear un botón que permita aplicar un ﬁltro de texto 
 
 # Version Estable
 
-1.0.0
+1.0.1
